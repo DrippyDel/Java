@@ -1,0 +1,16 @@
+/* COP 3503C Assignment 1
+This text is written by: Delali Ekpeh */
+
+Sorted situation
+In the case that the array is already sorted, the program would simply
+iterate through the array once to read the elements(O(Array Size)). Again since
+the array is already sorted no sorting is needed in this case. Therefore the time
+complexity for processing a sorted array is O(n).
+
+Unsorted situation
+In the case that the array is unsorted, the program would have to sort the array
+first using Collections.sort (O(arraySize * log(arraySize))
+then iterate through the array once to read the elements(O(Array Size)). However
+in my program the sorting operation is not executed in the 'getCandidatePair' function,
+so the 'getCandidatePair' function itself remains O(n). Therefore, overall the time
+complexity for processing a unsorted array is O(n log n).

@@ -1,0 +1,23 @@
+Practice1 - Intro Java stuff (ex: how to print, declare, etc)
+
+Practice2 - Arrays, constants, static vs non-static
+
+Practice 3 - Print Diamond
+
+Practice 4 - Instantiating a class, instances, this.
+
+Practice 5 - A raw example of Instantiating a class
+
+Practice 6 - Method overloading (ploymerishism)
+
+Practice 7 - Big O notation
+
+Practice 8 - Linked List
+
+Practice 9 - ArrayList
+
+Practice 10 - Inheritance, Method overriding
+
+Practice 11 - Static vs Dynamic Binding
+
+Practice 12 - Wrapper class 

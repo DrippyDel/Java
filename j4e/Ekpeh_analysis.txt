@@ -1,0 +1,8 @@
+/* COP 3503C Assignment 2
+This program is written by: Delali Ekpeh */
+
+The time complexity of this Assignment is O(s * n^2) s being the number of words
+I need to find in the matrix and n being the the number of rows and columns in the
+matrix. Excluding the 'printWord' function, the nested for loop is used to traverse
+the whole matrix in the 'exist' function and would be called s times for each word
+that needed to be checked.ß
